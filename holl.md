@@ -1,8 +1,5 @@
 # Single Click Protocol     :pbl:
 
-[2025-05-20 Tue 11:47] <- [Science](../../science.md)
-
-
 ## Notes
 
 
